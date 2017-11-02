@@ -11,7 +11,7 @@ namespace ProjectIntoGit
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Response.Write("Hello Git Repo");
         }
     }
 }
